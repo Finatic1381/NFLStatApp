@@ -2,3 +2,4 @@ streamlit
 pandas
 nfl-data-py
 plotly
+pytz
